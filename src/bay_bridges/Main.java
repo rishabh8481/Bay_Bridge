@@ -7,9 +7,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.awt.geom.Line2D;
-/*
- * Using inbuilt command for checking line Intersection 
- */
 public class Main {
 	public int num;
 	public double x1,y1,x2,y2;
