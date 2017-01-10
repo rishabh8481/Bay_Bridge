@@ -4,7 +4,9 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.lang.Math;
-
+/*
+ * check line intersection by writing an intersection algorithm.
+ */
 public class Main1 {
 	static int [][] checkIntersection;
 	public static HashMap<String, Main1> Map = new HashMap<String, Main1>();
